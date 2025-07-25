@@ -1,1 +1,1 @@
-# grainrus_for_beer_production
+# Грейнрус - все для производства пива
